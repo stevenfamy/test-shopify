@@ -9,7 +9,7 @@ const {
 } = require("@shopify/shopify-api");
 const { shopifyConf } = require("../../config/config");
 
-const callbackHost = "864f-2001-448a-1021-6fb7-6866-a268-f48e-862f.ngrok.io";
+const callbackHost = "d1b4-2001-448a-1022-2bd1-ab1b-890-33e4-b06.ngrok.io";
 
 //init shopify API
 const shopify = shopifyApi({
